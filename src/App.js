@@ -18,7 +18,12 @@ const emojiDictionary = {
   "😶‍🌫️": "confusion",
   "🫡": "saluting",
   "❤️": "love",
-  "🤤": "delicious"
+  "🤤": "delicious",
+  "🥲": "gratitude",
+  "😎": "cool",
+  "🤮": "vomiting",
+  "🤓": "nerd",
+  "😲": "shock"
 };
 
 const freuentlyUsedEmojiDict = {
@@ -26,11 +31,14 @@ const freuentlyUsedEmojiDict = {
   "😊": "similing",
   "😒": "irritation",
   "😴": "sleeping ",
+  "🤓": "nerd",
   "❤️": "love",
   "🤤": "delicious",
   "😑": "annoyance",
   "🥱": "mid-yawn",
-  "🤣": "hysterical laughter"
+  "🤣": "hysterical laughter",
+  "😲": "shock",
+  "😎": "cool"
 };
 
 var frequestEmoji = Object.keys(freuentlyUsedEmojiDict);
